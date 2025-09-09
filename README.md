@@ -1,6 +1,7 @@
 # Snake Game 🐍
+Type: Beginner / Learning Project
 
-A simple Snake Game built in Python using the `turtle` module. Guide the snake to eat food, grow longer, and avoid hitting the walls or yourself!
+A Snake Game built in Python using the `turtle` module. Guide the snake to eat food, grow longer, and avoid hitting the walls or yourself!
 
 ## Features
 
@@ -8,6 +9,14 @@ A simple Snake Game built in Python using the `turtle` module. Guide the snake t
 - Score tracking
 - Simple controls
 - Easy to run on any system with Python installed
+
+ ## Purpose
+
+- Practice Python basics: loops, conditionals, and lists.
+
+- Learn GUI development with Tkinter.
+
+- Understand game logic and state management
 
 ## Controls
 
