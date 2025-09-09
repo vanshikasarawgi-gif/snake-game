@@ -31,3 +31,8 @@ A Snake Game built in Python using the `turtle` module. Guide the snake to eat f
    ```bash
    python main.py
 5. Enjoy the game!
+
+ ## 📝 Notes
+
+- This is a beginner-level project for learning purposes.
+- Archived/learning projects are included to show growth in programming skills
